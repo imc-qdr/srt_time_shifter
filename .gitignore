@@ -1,0 +1,7 @@
+.idea/*
+__pycache__/*
+build/*
+dist/*
+Greenland 2020.srt
+time shifter.exe
+main.spec
